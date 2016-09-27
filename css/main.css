@@ -1,0 +1,23 @@
+body{
+	background-image:url("../fondo.jpg"); 
+
+}
+
+#oculto{
+	display: none;
+	position: relative;
+	bottom: 15px
+}
+
+#padre-segundo{
+	display: none;
+	position: relative;
+}
+
+#oculto-dos{
+	display: none;
+}
+
+#tarjeta-permanente{
+	position: relative;
+}
